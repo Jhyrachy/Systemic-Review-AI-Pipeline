@@ -1,5 +1,0 @@
-PubMed Search Query
-Date: 2025-10-16 23:26:29
-======================================================================
-
-(("Penile Neoplasms"[MeSH] OR "penile cancer"[tiab] OR "penile carcinoma"[tiab] OR "cancer of the penis"[tiab] OR "penile tumo*r"[tiab] OR "penile malignan*"[tiab])) AND (("Lymph Node Excision"[MeSH] OR lymphadenectom*[tiab] OR "lymph node dissection*"[tiab] OR "lymph node excision"[tiab] OR "nodal dissection*"[tiab] OR "groin dissection*"[tiab] OR "inguinal dissection*"[tiab] OR "pelvic dissection*"[tiab] OR "inguinal lymphadenectomy"[tiab] OR "pelvic lymphadenectomy"[tiab])) AND (("Neoplasm Recurrence, Local"[MeSH] OR "Recurrence"[MeSH] OR recurren*[tiab] OR relapse*[tiab] OR "local recurrence"[tiab] OR "regional recurrence"[tiab] OR "distant recurrence"[tiab])) AND (("Prognosis"[MeSH] OR "Risk Factors"[MeSH] OR "Survival Analysis"[MeSH] OR "Predictive Value of Tests"[MeSH] OR prognos*[tiab] OR predict*[tiab] OR "risk factor*"[tiab] OR "risk stratification"[tiab] OR determinant*[tiab] OR associat*[tiab] OR clinicopathologic*[tiab] OR clinicopathological[tiab]))
