@@ -139,7 +139,7 @@ USER_DEFINED_QUERY = '("your query"[tiab] AND "terms"[MeSH Terms])'
 If you use this pipeline in your research, please cite:
 
 ```bibtex
-@software{systematic_review_pipeline_2024,
+@software{Systemic-Review-AI-Pipeline,
   author = {Pieri, J.},
   title = {Systematic Review Pipeline: AI-Powered Literature Search and Screening},
   year = {2025},
@@ -150,7 +150,7 @@ If you use this pipeline in your research, please cite:
 
 **Plain text citation:**
 > Pieri, J. (2025). Systematic Review Pipeline: AI-Powered Literature Search and Screening. 
-> Available at: [GitHub URL or DOI]
+> Available at: https://github.com/Jhyrachy/Systemic-Review-AI-Pipeline/
 
 ---
 
@@ -170,7 +170,7 @@ This software is provided as-is for academic and research purposes. Please retai
 ## 📧 Contact
 
 **Author**: Dr. Pieri Jacopo
-**GitHub**: [your-github-profile]
+**GitHub**: https://github.com/Jhyrachy
 
 For bug reports, feature requests, or collaboration inquiries, please open an issue on GitHub or contact directly.
 
