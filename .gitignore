@@ -61,6 +61,7 @@ venv.bak/
 *.csv
 *.xlsx
 *.json
+*.txt
 
 # Study protocol
 *.docx
