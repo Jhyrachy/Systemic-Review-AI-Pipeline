@@ -150,7 +150,7 @@ If you use this pipeline in your research, please cite:
 
 **Plain text citation:**
 > Pieri, J. (2025). Systematic Review Pipeline: AI-Powered Literature Search and Screening. 
-> Available at: https://github.com/Jhyrachy/Systemic-Review-AI-Pipeline/
+> Available at: https://github.com/Jhyrachy/Systematic-Review-AI-Pipeline-Review-AI-Pipeline/
 
 ---
 
@@ -169,8 +169,8 @@ This software is provided as-is for academic and research purposes. Please retai
 
 ## 📧 Contact
 
-**Author**: Dr. Pieri Jacopo
-**GitHub**: https://github.com/Jhyrachy
+- **Author**: Dr. Pieri Jacopo
+- **GitHub**: https://github.com/Jhyrachy
 
 For bug reports, feature requests, or collaboration inquiries, please open an issue on GitHub or contact directly.
 
